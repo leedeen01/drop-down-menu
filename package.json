@@ -1,0 +1,19 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "JavaScript code is reusable! You should be able to create multiple drop-downs on a page using HTML and reuse the JavaScript logic to hide/reveal them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedeen01/drop-down-menu.git"
+  },
+  "author": "leedeen01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leedeen01/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/leedeen01/drop-down-menu#readme"
+}
